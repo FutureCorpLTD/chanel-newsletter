@@ -1,2 +1,2 @@
-# chanel-newsletter-fonts
-Repo to hold custom ABChanel Corpo
+# Chanel AC&C Newsletter Fonts
+Repository to store the custom ABChanel Corpo fonts to use on mailjet
