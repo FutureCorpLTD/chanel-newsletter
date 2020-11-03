@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'ABChanel Corpo_Extra Light';
+    font-family: 'ABChanel-Corpo_Extra-Light';
     src:    url('ABChanelCorpo/ExtraLight/ABChanel_Corpo-Extra_Light_web.woff') format('woff'),
             url('ABChanelCorpo/ExtraLight/ABChanel_Corpo-Extra_Light_web.woff2') format('woff2'),
             url('ABChanelCorpo/ExtraLight/ABChanel_Corpo-Extra_Light_web.ttf') format('truetype');
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'ABChanel Corpo_Light';
+    font-family: 'ABChanel-Corpo_Light';
     src:    url('ABChanelCorpo/Light/ABChanel_Corpo-Light_web.woff') format('woff'),
             url('ABChanelCorpo/Light/ABChanel_Corpo-Light_web.woff2') format('woff2'),
             url('ABChanelCorpo/Light/ABChanel_Corpo-Light_web.ttf') format('truetype');
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-    font-family: 'ABChanel Corpo_Regular';
+    font-family: 'ABChanel-Corpo_Regular';
     src:    url('ABChanelCorpo/Regular/ABChanel_Corpo-Regular_web.woff') format('woff'),
             url('ABChanelCorpo/Regular/ABChanel_Corpo-Regular_web.woff2') format('woff2'),
             url('ABChanelCorpo/Regular/ABChanel_Corpo-Regular_web.ttf') format('truetype');
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-    font-family: 'ABChanel Corpo_Semi Bold';
+    font-family: 'ABChanel-Corpo_Semi-Bold';
     src:    url('ABChanelCorpo/SemiBold/ABChanel_Corpo-Semi_Bold_web.woff') format('woff'),
             url('ABChanelCorpo/SemiBold/ABChanel_Corpo-Semi_Bold_web.woff2') format('woff2'),
             url('ABChanelCorpo/SemiBold/ABChanel_Corpo-Semi_Bold_web.ttf') format('truetype');
