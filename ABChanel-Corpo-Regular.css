@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'ABChanel-Corpo_Regular';
+    src:    url('ABChanel_Corpo-Regular_web.woff') format('woff'),
+            url('ABChanel_Corpo-Regular_web.woff2') format('woff2'),
+            url('ABChanel_Corpo-Regular_web.ttf') format('truetype');
+    /* font-weight: normal; */
+    /* font-style: normal; */
+}
