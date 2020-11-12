@@ -1,0 +1,28 @@
+{
+  "name": "chanel-newsletter",
+  "version": "1.0.0",
+  "description": "Repository for Mailjet Send API",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-mailjet": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FutureCorpLTD/chanel-newsletter.git"
+  },
+  "keywords": [
+    "newsletter",
+    "environment"
+  ],
+  "author": "Future Corp (jonathanquaade)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FutureCorpLTD/chanel-newsletter/issues"
+  },
+  "homepage": "https://github.com/FutureCorpLTD/chanel-newsletter#readme"
+}
